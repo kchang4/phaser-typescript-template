@@ -9,25 +9,25 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/photonstorm/phaser3-typescript-project-template.git"
+        "url": "git+https://github.com/kchang4/phaser-typescript-template"
     },
-    "author": "Richard Davey <rich@photonstorm.com> (http://www.photonstorm.com)",
+    "author": "kchang4",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/photonstorm/phaser3-typescript-project-template/issues"
+        "url": "https://github.com/kchang4/phaser-typescript-template/issues"
     },
-    "homepage": "https://github.com/photonstorm/phaser3-typescript-project-template#readme",
+    "homepage": "https://github.com/kchang4/phaser-typescript-template#readme",
     "devDependencies": {
-        "@types/node": "^18.15.11",
-        "@types/webpack-dev-server": "^4.7.2",
+        "@types/node": "^18.16.3",
+        "@types/webpack-dev-server":"^4.7.2",
         "copy-webpack-plugin": "^11.0.0",
         "html-webpack-plugin": "^5.5.1",
         "phaser": "^3.60.0",
         "ts-loader": "^9.4.2",
         "ts-node": "^10.9.1",
-        "typescript": "^5.0.3",
-        "webpack": "^5.79.0",
-        "webpack-cli": "^5.0.1",
+        "typescript": "^5.0.4",
+        "webpack": "^5.81.0",
+        "webpack-cli": "^5.0.2",
         "webpack-dev-server": "^4.13.3"
     },
     "dependencies": {
